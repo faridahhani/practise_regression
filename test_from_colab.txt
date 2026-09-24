@@ -1,2 +1,1 @@
-This file was created from Google Colab.
-HELOOOOOO
+Delete test file
